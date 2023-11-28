@@ -1,0 +1,10 @@
+modelview\WebContainerController$1.class
+modelview\LoginController.class
+modelview\RegistrationController.class
+modelview\WebContainerController.class
+modelview\WebContainerController$Bridge.class
+com\mycompany\mvvmexample\App.class
+models\Person.class
+viewmodel\AccessDataViewModel.class
+com\mycompany\mvvmexample\FirestoreContext.class
+modelview\AccessFBView.class
